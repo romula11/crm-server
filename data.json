@@ -1,0 +1,154 @@
+{
+  "bids": [
+    {
+      "name": "Свердлов Яков",
+      "phone": "891234561111",
+      "email": "lenia@stealrdrsp.com",
+      "product": "course-html",
+      "date": "06.02.2023, 18:52:47",
+      "shortDate": "06.02.2023",
+      "status": "inwork",
+      "id": 1
+    },
+    {
+      "name": "Ульянов Владимир",
+      "phone": "891910000006",
+      "email": "leiba@trozk.com",
+      "product": "course-wordpress",
+      "date": "06.02.2023, 18:52:51",
+      "shortDate": "06.02.2023",
+      "status": "new",
+      "id": 2
+    },
+    {
+      "name": "Скрябин Вячеслав",
+      "phone": "891122567890",
+      "email": "goga@trozk.com",
+      "product": "course-wordpress",
+      "date": "06.02.2023, 18:52:52",
+      "shortDate": "06.02.2023",
+      "status": "complete",
+      "id": 3
+    },
+    {
+      "name": "Крупская Наталья",
+      "phone": "891122567890",
+      "email": "lenia@stealrdrsp.com",
+      "product": "course-js",
+      "date": "06.02.2023, 18:52:53",
+      "shortDate": "06.02.2023",
+      "status": "inwork",
+      "id": 4
+    },
+    {
+      "name": "Каменев Лев",
+      "phone": "891234567890",
+      "email": "hammer@stealrdrsp.com",
+      "product": "course-php",
+      "date": "06.02.2023, 18:52:53",
+      "shortDate": "06.02.2023",
+      "status": "new",
+      "id": 5
+    },
+    {
+      "name": "Свердлов Яков",
+      "phone": "891512444466",
+      "email": "filliks@stealrdrsp.com",
+      "product": "course-vue",
+      "date": "06.02.2023, 18:52:53",
+      "shortDate": "06.02.2023",
+      "status": "complete",
+      "id": 6
+    },
+    {
+      "name": "Скрябин Вячеслав",
+      "phone": "890000567666",
+      "email": "volodya@stealrdrsp.com",
+      "product": "course-html",
+      "date": "06.02.2023, 18:52:53",
+      "shortDate": "06.02.2023",
+      "status": "new",
+      "id": 7
+    },
+    {
+      "name": "Скрябин Вячеслав",
+      "phone": "891122567890",
+      "email": "hammer@stealrdrsp.com",
+      "product": "course-js",
+      "date": "06.02.2023, 18:52:54",
+      "shortDate": "06.02.2023",
+      "status": "inwork",
+      "id": 8
+    },
+    {
+      "name": "Крупская Наталья",
+      "phone": "891122567666",
+      "email": "goga@trozk.com",
+      "product": "course-js",
+      "date": "06.02.2023, 18:52:54",
+      "shortDate": "06.02.2023",
+      "status": "inwork",
+      "id": 9
+    },
+    {
+      "name": "Джугашвили Иосиф",
+      "phone": "890000567666",
+      "email": "leiba@trozk.com",
+      "product": "course-php",
+      "date": "06.02.2023, 18:52:54",
+      "shortDate": "06.02.2023",
+      "status": "complete",
+      "id": 10
+    },
+    {
+      "name": "Иосиф",
+      "phone": "89000000000",
+      "email": "suoersotar@stealrdrsp.com",
+      "product": "course-js",
+      "date": "06.02.2023, 19:19:59",
+      "shortDate": "06.02.2023",
+      "status": "new",
+      "id": 11
+    },
+    {
+      "name": "Радомысльский Герш",
+      "phone": "891910000006",
+      "email": "leva@trozk.com",
+      "product": "course-vue",
+      "date": "06.02.2023, 19:20:22",
+      "shortDate": "06.02.2023",
+      "status": "new",
+      "id": 12
+    },
+    {
+      "name": "Ярмольник Леонид",
+      "phone": "891512444466",
+      "email": "yarya@stealrdrsp.com",
+      "product": "course-html",
+      "date": "06.02.2023, 19:41:40",
+      "shortDate": "06.02.2023",
+      "status": "complete",
+      "id": 13
+    },
+    {
+      "name": "Дзержинский Феликс",
+      "phone": "899955997666",
+      "email": "volodya@stealrdrsp.com",
+      "product": "course-wordpress",
+      "date": "06.02.2023, 19:58:37",
+      "shortDate": "06.02.2023",
+      "status": "new",
+      "id": 14
+    },
+    {
+      "name": "Дзержинский Феликс",
+      "phone": "890000567666",
+      "email": "filliks@stealrdrsp.com",
+      "product": "course-js",
+      "date": "06.02.2023, 20:13:22",
+      "shortDate": "06.02.2023",
+      "status": "new",
+      "id": 15
+    }
+  ]
+}
